@@ -1,5 +1,5 @@
 # Artificial_Intelligence-Pacman_Capture_The_Flag
-Use of Python to create a competition between two teams, where each team consists of three Pac-Men. Pacman agent utilizes q-learning to try to win game.
+Use of Python to create a competition between two teams, where each team consists of three Pac-Men. Pacman agent utilizes Q-learning to try to win game.
 
 How to play the game:
 
